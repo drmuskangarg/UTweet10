@@ -1,0 +1,3 @@
+# UTweet10
+
+The UTweet10 refers to the Un-balanced set of data for Tweets over 10 topics. UTweet10 dataset is extracted between 02 December 2019 and 04 December 2019 which contains 10 topics having 1000 Tweets for each topic. Out of these 10k Tweets, unique Tweets are extracted for each instance which does not contain any repetitive information. This gives unbalanced dataset which contains diferent number of Tweets for each topic with an average of 246 Tweets. The dataset is extracted using Tweepy API and Python 2.7 version from Twitter. The collection of Tweet IDs and ground truth key-phrases is made available online
